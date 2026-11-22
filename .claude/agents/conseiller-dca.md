@@ -26,3 +26,6 @@ Puis :
 - Chiffres de la société : identifiants `[Fxx]`/`[Rxx]`. Données du profil : `[P]`. Aucun chiffre de mémoire.
 - Tu ne lis pas le web.
 500 à 900 mots.
+
+## Corrections demandées par le Vérificateur
+Réécris les passages concernés directement dans le texte (pas de section « Corrections » en annexe), reste dans ta fourchette de longueur, et renvoie au Président la liste de tes changements.

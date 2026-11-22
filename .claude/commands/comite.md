@@ -34,7 +34,8 @@ Lance `conseiller-dca` avec profil + `01` à `06` → `07-dca.md`.
 
 ## 6. Vérification et allers-retours
 1. Lance `verificateur` sur `02` à `07` → `08-verification.md`.
-2. Pour chaque KO, renvoie le fichier concerné **à l'agent qui l'a écrit** (même sous-agent, mêmes droits de lecture), avec la liste exacte des corrections. Il réécrit son fichier.
+2. Pour chaque KO, renvoie le fichier concerné **à l'agent qui l'a écrit** (même sous-agent, mêmes droits de lecture), avec la liste exacte des corrections. Il **réécrit les passages concernés directement dans le texte**, sans section « Corrections » en annexe, et en restant dans sa fourchette de longueur. Il renvoie la liste de ses changements au Président, qui la consigne dans `08-verification.md` (section « Corrections appliquées »).
+   - Les KO-source vont à l'Analyste (`Fxx`) ou au Risk manager (`Rxx`), qui corrigent la fiche. Préviens ensuite les agents qui citaient l'identifiant corrigé.
 3. Relance `verificateur` sur les seuls fichiers corrigés → `08-verification-passe2.md`.
 4. **Deux allers-retours maximum.** Ce qui reste KO est retiré ou listé dans « Points non vérifiés » de la décision.
 
@@ -47,7 +48,7 @@ Lance `conseiller-dca` avec profil + `01` à `06` → `07-dca.md`.
    - Place dans le portefeuille (reprend le Conseiller DCA).
    - Sources : celles de la fiche réellement utilisées.
    - Relance : « Ce qui a changé depuis la dernière séance » (verdict, conviction, chiffres clés, signaux d'alerte déclenchés ou non).
-2. Fais vérifier `decision.md` par `verificateur` (une passe ; corrige toi-même les KO).
+2. Fais vérifier `decision.md` par `verificateur` (une passe ; corrige toi-même les KO). Dans « Points non vérifiés », liste les identifiants classés « Source non lue » qui soutiennent un argument de la décision.
 
 ## 8. Rangement
 1. **Historique** : ajoute une ligne à `seances/<TICKER>/historique.md` (crée-le si besoin avec l'en-tête) :
