@@ -20,11 +20,11 @@ J'arbitre pour le Bull sur le moat, pour le Bear sur le niveau des marges. Marge
 ## 5. Chevauchement et concentration — **défavorable**
 - **Secteur** : seule ligne luxe, et Gabriel veut réduire cette concentration [P]. Tout renfort va contre l'objectif.
 - **Pays** : les lignes françaises font ≈ 68,9 % du PEA (calcul : 1 209 + 486 + 484 + 401 + 371 + 351 + 345 = 3 647, / 5 293 [P]).
-- **Exposition indirecte** : l'ETF Stoxx Europe 600 [P] compte LVMH parmi ses composantes (poids : introuvable [F--]) ; Amundi et BlackRock [P] sont des gérants institutionnels (17,13 % du capital aux institutions [F86], répartition introuvable [F--]).
+- **Exposition indirecte** : chevauchement probable avec l'ETF Stoxx Europe 600 détenu [P], composition non vérifiée (introuvable [F--]) ; Amundi et BlackRock [P] sont des gérants institutionnels (17,13 % du capital aux institutions [F86], répartition introuvable [F--]).
 - **Devise et zones** : 29 % des ventes en dollars [F99] et 26 % du CA aux États-Unis [F38], sous droits de 15 % [R09], s'ajoutent à un CTO 100 % américain [P] ; Asie hors Japon 26 % [F39] recoupe l'ETF émergents [P].
 
 ## 6. Valorisation et rythme d'entrée — **favorable**
-PER 17,41 contre ≈ 26,7 en moyenne 2021-2025 [F73] (moyenne 10 ans introuvable [F--]), rendement FCF ≈ 6,0 % selon LVMH [F75]. Le cours (381,95 € [F71]) est sous le seuil « DCA franc » du Bull révisé (PER 18 ≈ 395 € sur le BPA glissant de 21,94 € [F14]). Mais la tendance reste baissière (moyenne mobile 200 j 458,10 € [F71]) et la publication du 25.01.2027 [S1] approche.
+PER 17,41 contre ≈ 26,7 en moyenne 2021-2025 [F73] (moyenne 10 ans introuvable [F--]), rendement FCF ≈ 6,0 % selon la définition LVMH (calcul de la fiche à partir de [F31] et [F72]), 7,6 % selon S&P [F75]. Le cours (381,95 € [F71]) est sous le seuil « DCA franc » du Bull révisé (PER 18 ≈ 395 € sur le BPA glissant de 21,94 € [F14]). Mais la tendance reste baissière (moyenne mobile 200 j 458,10 € [F71]) et la publication du 25.01.2027 [S1] approche.
 **Rythme : progressif, jamais d'achat en bloc.** Signaux :
 - cours > ≈ 439 € (PER 20, calcul 20 × 21,94 [F14]) : poids DCA à 0 et **début de l'allègement** que Gabriel attend ;
 - Mode et Maroquinerie encore en recul organique dans les résultats 2026 [F33], ou dividende abaissé : poids à 0 ;
