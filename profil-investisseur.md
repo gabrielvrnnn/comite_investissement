@@ -11,7 +11,7 @@
 - En attendant, le Conseiller DCA raisonne en **% du DCA mensuel** (poids suggéré), pas en euros.
 
 ## Enveloppes
-- **PEA en priorité** (Trade Republic). Date d'ouverture / ancienneté fiscale : à compléter. Plafond de versements restant : à compléter.
+- **PEA en priorité** (Trade Republic). Ouvert il y a environ 4 ans : l'avantage fiscal des 5 ans arrive vers fin 2027 (date exacte à compléter). Plafond de versements restant : à compléter.
 - **CTO ouvert** (Trade Republic) : actions US, et aussi Chine / Asie / reste du monde si le dossier le justifie.
 - Règle : à qualité égale, préférer une valeur éligible PEA.
 
@@ -23,7 +23,7 @@
 ## Objectifs
 - **Mixte** : ni uniquement croissance, ni uniquement dividendes.
 - Dividendes **réinvestis**.
-- Préférence pour des **leaders de leur secteur** (à confirmer : réponse dictée « je suis leader général »).
+- Pas de style imposé : Gabriel fait les deux (croissance et dividendes) et juge au cas par cas.
 
 ## Contraintes et préférences
 - Aucun secteur exclu.
@@ -58,7 +58,8 @@
 | NVIDIA | 350 € | Semi-conducteurs | États-Unis |
 | Realty Income | 54 € | Immobilier coté | États-Unis |
 | Walt Disney | ~10 € | Médias | États-Unis |
-| Microsoft, Mastercard | à confirmer | — | États-Unis |
+
+> Le 22 nov., Gabriel cite 8 lignes CTO (NVIDIA, Alphabet, Tesla, McDonald's, BlackRock, Visa, Coca-Cola, Apple). Realty Income et Disney (très petites, vues sur la capture du 12 nov.) : à confirmer. Pas de Microsoft ni de Mastercard.
 
 **Crypto (~1 862 €)** : Bitcoin, Ethereum, Aave, Audius. Hors périmètre du comité, mais à garder en tête pour la tolérance au risque globale.
 
@@ -66,3 +67,4 @@
 
 ## Journal
 - 2026-11-22 : profil créé à partir du coffre (positions du 12 nov.) et des réponses de Gabriel.
+- 2026-11-22 : précisions : style mixte sans préférence, pas de Microsoft ni Mastercard, PEA ouvert il y a ~4 ans.
