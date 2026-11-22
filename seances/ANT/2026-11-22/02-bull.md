@@ -3,7 +3,7 @@
 > Conflit d'intérêts : ce texte est écrit par un modèle Claude, développé par Anthropic. Le Bear et le Risk manager doivent être d'autant plus exigeants. Seule source utilisée : `01-fiche.md`, elle-même fondée sur des sources secondaires (prospectus non lu).
 
 ## 1. La thèse en une phrase
-Anthropic est passée en trois ans d'un laboratoire déficitaire à un éditeur d'IA dont le CA croît de plus de 10× par an, dont la marge brute est devenue positive et qui génère déjà du cash : un DCA prudent au CTO permet d'acheter tôt une possible plateforme logicielle dominante de la décennie, à condition de ne pas payer le prix d'euphorie du premier jour.
+Anthropic est passée en trois ans d'un laboratoire déficitaire à un éditeur d'IA dont le CA croît de plus de 10× par an depuis 2025 (×11,9 en 2025 [F02][F03] ; ×13,3 sur 9 mois 2026 [F04][F09] ; ×9,4 seulement en 2024 [F01][F02]), dont la marge brute est devenue positive et qui génère déjà du cash : un DCA prudent au CTO permet d'acheter tôt une possible plateforme logicielle dominante de la décennie, à condition de ne pas payer le prix d'euphorie du premier jour.
 
 ## 2. Avantage concurrentiel
 - **Coût de changement de fournisseur** : 83 % du CA 2025 est facturé à l'usage via l'API (calcul : 3 796 / 4 585, à partir de [F06]). Un modèle intégré dans les chaînes logicielles des clients (services financiers, santé, droit [S16]) et dans des agents comme Claude Code se remplace difficilement sans réécrire processus et tests.
@@ -12,7 +12,7 @@ Anthropic est passée en trois ans d'un laboratoire déficitaire à un éditeur 
 - ROIC dans la durée : **non disponible dans la fiche** [F29]. La preuve du moat repose donc sur la croissance et la trajectoire de marge, pas encore sur la rentabilité du capital.
 
 ## 3. Moteurs de croissance à 10 ans
-1. **Adoption entreprise à l'usage** : CA 386 M$ en 2024 [F02] → 4 585 M$ en 2025 [F03], soit ×11,9 ; 9 mois 2026 : 33 242 M$ [F04] contre ≈ 2 500 M$ sur 9 mois 2025 [F09], soit ×13,3. T3 2026 : 16 956 M$ [F05], +1 127 % sur un an [S22].
+1. **Adoption entreprise à l'usage** : CA 386 M$ en 2024 [F02] → 4 585 M$ en 2025 [F03], soit ×11,9 ; 9 mois 2026 : 33 242 M$ [F04] contre ≈ 2 500 M$ sur 9 mois 2025 [F09], soit ×13,3. T3 2026 : 16 956 M$ [F05], +1 127 % sur un an selon la presse [F05].
 2. **Abonnements et applications** (Claude.ai, Claude Code, Cowork, Security, Design, Science [S16]) : 789 M$ en 2025, 17 % du CA (calcul à partir de [F06]). Une base récurrente qui diversifie le revenu de l'API.
 3. **International** : 5 249 M$ au T3 2026, soit 31 % du CA du trimestre (calcul : 5 249 / 16 956, à partir de [F07]). Le marché hors États-Unis reste largement à conquérir.
 
@@ -23,7 +23,7 @@ Anthropic est passée en trois ans d'un laboratoire déficitaire à un éditeur 
 - **Dividende** : aucun [F32] ; normal à ce stade, chaque dollar est réinvesti dans la croissance.
 
 ## 5. Scénario 2036 si tout va bien
-Anthropic devient l'un des deux ou trois fournisseurs de modèles de référence pour les entreprises, avec une marge brute de type logiciel et un FCF qui finance seul le calcul. Calcul transparent de ce qu'il faut pour justifier le prix : à une hypothèse de 25× le FCF (hypothèse du Bull, pas une donnée), la capitalisation de 1 188 428 M$ [F36] suppose un FCF d'environ 47,5 Md$, soit 9,5× le FCF glissant de 5 011 M$ [F19]. Avec une croissance du CA de ×12 à ×13 par an ([F03][F04][F09]), ce multiplicateur est atteignable bien avant 2036 si la marge se normalise ; il n'est pas besoin que la croissance actuelle dure dix ans.
+Anthropic devient l'un des deux ou trois fournisseurs de modèles de référence pour les entreprises, avec une marge brute de type logiciel et un FCF qui finance seul le calcul. Calcul transparent de ce qu'il faut pour justifier le prix : à une hypothèse de 25× le FCF (hypothèse du Bull, pas une donnée), la capitalisation de 1 188 428 M$ [F36] suppose un FCF d'environ 47,5 Md$, soit 9,5× le FCF glissant de 5 011 M$ [F19]. La croissance passée du CA est de ×11,9 en 2025 et ×13,3 sur 9 mois 2026 ([F02][F03][F04][F09]) ; supposer qu'elle reste forte quelques années encore est une hypothèse du Bull, pas une donnée. Sous cette hypothèse, ce multiplicateur est atteignable bien avant 2036 si la marge se normalise ; il n'est pas besoin que la croissance actuelle dure dix ans.
 
 ## 6. Valorisation
 - Chère sur le passé : VE/CA 33,77, rendement FCF 0,42 % [F39][F41]. Mais le multiple prospectif tombe à 10,63× le CA [F39], et le T3 annualisé donne 67 824 M$ de CA (calcul : 16 956 × 4, à partir de [F05]), soit ≈ 17,5× pour la capitalisation (1 188 428 / 67 824, à partir de [F36]) ou ≈ 23,9× sur base totalement diluée (1,62 T$ [F43] / 67 824).
@@ -37,3 +37,8 @@ Anthropic devient l'un des deux ou trois fournisseurs de modèles de référence
 - Croissance du CA qui tombe sous ×2 sur un an alors que les engagements dus sous 12 mois atteignent ≈ 69,8 Md$ [F27], soit près de deux fois le CA glissant de 35 282 M$ [F08] (calcul : 69,8 / 35,3).
 - Rémunération en actions qui dépasse le FCF : 3 829 M$ de SBC [F22] pour 5 011 M$ de FCF [F19] aujourd'hui ; un FCF net de SBC négatif invaliderait la thèse « cash ».
 - Lecture du 424B4 contredisant les chiffres secondaires de la fiche, notamment sur la dette de 130,5 Md$ [F25].
+
+## Corrections après vérification (passe 1)
+- KO #1 (§1) : « plus de 10× par an » précisé en « depuis 2025 », avec ×11,9 en 2025 [F02][F03], ×13,3 sur 9 mois 2026 [F04][F09] et ×9,4 en 2024 [F01][F02].
+- KO #2 (§3) : « +1 127 % sur un an » cité [F05] au lieu du code source [S22].
+- Remarque (§5) : la projection fondée sur « ×12 à ×13 par an » est désormais présentée comme hypothèse du Bull (taux passés ×11,9 et ×13,3 cités avec leurs identifiants), et non comme une donnée.

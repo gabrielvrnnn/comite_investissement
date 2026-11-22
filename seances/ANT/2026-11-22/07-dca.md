@@ -6,7 +6,7 @@
 Le Bull a le fait le plus fort du dossier : CA ×11,9 puis ×13,3 ([F02][F03][F04][F09]) et marge brute de −99,89 % à 31,74 % ([F12][F14]). Mais le Bear a raison sur l'essentiel pour un horizon de 10 ans : 83 % du CA est facturé à l'usage [F06], donc routable ailleurs ; ROIC introuvable [F29] ; le coût de la matière première est fixé par des fournisseurs qui sont aussi concurrents [F28]. Trois ans de comptes [F01]-[F05] ne prouvent pas un moat décennal. Je ne tranche pas.
 
 ## 2. Résistance aux crises — **défavorable**
-Aucun historique : 2008, 2020, 2022 introuvables [F--] (société fondée en 2021, cotée depuis le 19/11/2026). Seul repère : −8,50 % à la 2ᵉ séance [F45], −22,7 % sous le plus haut du 19/11 (calcul de la fiche). Pour Gabriel, qui accepte −30 à −50 % sur une ligne [P] : on ne peut pas lui promettre que la ligne restera dans cette zone. Le Risk manager juge un recul **au-delà de −50 % plausible** et le risque de perte définitive **moyen** (dette et 895,4 Md$ d'engagements passent avant l'action [F25][F27]). Je le signale explicitement : c'est la ligne la plus susceptible de le faire vendre au pire moment.
+Aucun historique : 2008, 2020, 2022 introuvables [F--] (société fondée en 2021, cotée depuis le 19/11/2026). Seul repère : −8,50 % à la 2ᵉ séance [F45], −22,7 % sous le plus haut du 19/11 (calcul de la fiche). Pour Gabriel, qui accepte −30 à −50 % sur une ligne [P] : on ne peut pas lui promettre que la ligne restera dans cette zone. Le Risk manager juge un recul **au-delà de −50 % plausible** et le risque de perte définitive **moyen** (engagements de 895,4 Md$ [F27] ; la dette de 134 986 M$ [F25] passerait avant l'action **si elle n'est pas convertie à l'IPO — à vérifier dans le 424B4** : nature et traitement introuvables [F--], vraisemblablement des convertibles (fiche §5) ; rang des engagements d'achat : introuvable [F--]). Je le signale explicitement : c'est la ligne la plus susceptible de le faire vendre au pire moment.
 
 ## 3. Croissance du dividende — **défavorable**
 Aucun dividende [F32][F40], politique introuvable [F--], dilution nette de −32,35 % sur 12 mois [F34]. Rien à réinvestir [P]. Ligne de pure croissance dans un profil mixte.
@@ -20,8 +20,8 @@ Lignes CTO [P] : Apple 1 300 €, Tesla 818 €, Alphabet 635 €, NVIDIA 350 �
 - **États-Unis / USD** : le CTO entier, ≈ 57 % du portefeuille (7 123 / 12 416, calcul [P]).
 - **Exposition indirecte, le vrai problème** :
   - **Alphabet** [P] est à la fois **actionnaire** d'Anthropic (13,7 %, sans vote [F50]), **fournisseur de calcul** (≈ 114,5 Md$ d'engagements [F28], chiffres divergents), **souscripteur** du placement privé [F38] et **concurrent** [S23 via fiche §10]. Une partie de la valeur d'ANT est déjà dans la ligne Alphabet, et inversement : si les engagements d'ANT vacillent, le carnet cloud d'Alphabet en souffre.
-  - **NVIDIA** [P] a souscrit au placement privé [F38] et vend la puissance de calcul dont dépendent les 895,4 Md$ d'engagements [F27]. Un ralentissement de la demande IA frappe NVIDIA et ANT **en même temps**, comme le 20/11 (Nasdaq 100 −5,6 %, ANT −8,50 % [F45]).
-  - Alphabet + NVIDIA ≈ 985 €, ≈ 8 % du portefeuille (calcul [P]) : le facteur « IA » existe déjà, avec la même dépendance Taïwan / TSMC [R09].
+  - **NVIDIA** [P] a souscrit au placement privé [F38]. Lien fournisseur avec Anthropic : introuvable [F--] (contreparties de calcul nommées : Google, AWS, Microsoft, Broadcom [F28]). Le lien est donc capitalistique et de facteur de marché : un ralentissement de la demande IA peut frapper NVIDIA et ANT **en même temps**, comme le 20/11 (Nasdaq 100 −5,6 %, ANT −8,50 % [F45]).
+  - Alphabet + NVIDIA ≈ 985 €, ≈ 8 % du portefeuille (calcul [P]) : le facteur « IA » existe déjà. ANT dépend de Taïwan / TSMC [R09] ; la même dépendance pour Alphabet et NVIDIA est hors fiche.
 - ANT ne dilue pas le luxe (objectif de réduire LVMH [P]) ; elle renforce une concentration qui existe déjà. Conclusion : diversification nulle, corrélation forte.
 
 ## 6. Valorisation et rythme d'entrée — **défavorable → attendre**
@@ -42,3 +42,9 @@ Ensuite : progressif, 12 mois minimum. Arrêt si la marge brute repasse sous 22,
 **« Pas maintenant » — conviction 3/10.** Gabriel achèterait, au CTO et sans dividende, une société sans historique de crise, dont un recul au-delà de −50 % est plausible, et qui recoupe directement ses lignes Alphabet et NVIDIA. Je réexamine après lecture du 424B4 et une première publication trimestrielle, avec au mieux une petite ligne à 5 % du DCA plafonnée à 3 % du portefeuille.
 
 Outil d'aide à la réflexion, pas un conseil financier.
+
+## Corrections après vérification (passe 1)
+- #15 (l. 9) : « dette et engagements passent avant l'action » mis au conditionnel : la dette [F25] ne passerait avant l'action que si elle n'est pas convertie à l'IPO (à vérifier dans le 424B4) ; rang des engagements [F27] : introuvable. Note « défavorable » du critère 2 inchangée : elle repose d'abord sur l'absence d'historique de crise [F--].
+- #16 (l. 23) : NVIDIA n'est plus présenté comme fournisseur de calcul ; seul fait sourcé : souscripteur du placement privé [F38] ; lien fournisseur introuvable [F--]. Le critère 5 reste « défavorable » (Alphabet actionnaire/fournisseur/concurrent [F50][F28], 44 % du CTO en tech US [P]), mais l'argument NVIDIA est affaibli.
+- #17 (l. 24) : la dépendance TSMC [R09] est limitée à Anthropic ; celle d'Alphabet et NVIDIA est signalée « hors fiche ». Recommandation (« Pas maintenant », 3/10) et poids (0 % / 5 % / plafonds 3 % et 12 %) inchangés : aucune correction ne les impose.
+
