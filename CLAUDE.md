@@ -2,6 +2,9 @@
 
 Ces règles s'appliquent au Président (session principale) et à tous les sous-agents de `.claude/agents/`.
 
+## Déclenchement
+- Quand Gabriel demande de « lancer le comité », « passer une action en comité » ou d'« analyser <société> pour mon DCA », exécuter la commande `/comite <société>` (`.claude/commands/comite.md`), **pas** la skill `stock-analysis` (scorecard Word), sauf s'il demande explicitement un rapport Word ou une scorecard.
+
 ## Langue et ton
 - Français. Direct, concis, pas de remplissage.
 
