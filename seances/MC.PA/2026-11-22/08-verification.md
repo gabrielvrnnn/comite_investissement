@@ -89,3 +89,12 @@ Remarque à l'Analyste (non bloquante) : la page [S3] contient une ligne « Free
 
 **Corrections à renvoyer à : Bull (02, 04), Bear (03, 05), Risk manager (06, et lecture de [R01] / [R03]), Conseiller DCA (07).**
 Pas de correction de fiche demandée à l'Analyste (aucun KO-source) ; remarque facultative sur [S3] ci-dessus et, s'il le souhaite, identifiant à créer pour l'appartenance de LVMH au Stoxx Europe 600 (KO n° 18).
+
+## Corrections appliquées (consignées par le Président)
+- **02-bull.md** (Bull) : « pic de 2023 » → « 26,5 % à 26,7 % sur 2021-2023 [F20]-[F22] » ; « Sephora » → « Distribution sélective (Sephora, DFS) » [F34] ; projet Agache = objectif annoncé, non réalisé, non vérifié [F85] ; rendement FCF ≈ 6,0 % = calcul [F31][F72] ; succession : calendrier « 7-8 ans » [W8].
+- **04-replique-bull.md** (Bull) : « Sephora » → « Distribution sélective (Sephora, DFS) » ; « guidance trimestrielle » → « guidance chiffrée [F--] » ; rendement FCF : 7,6 % [F75] / ≈ 6,0 % calcul [F31][F72].
+- **03-bear.md** (Bear) : « PER de 17 » → « PER d'environ 17 [F73] » ; Distribution sélective (Sephora, DFS) [F34][F35][F37] ; horizon de 10 ans [P] ; écart dette ≈ 16,7 Md€ (dette nette S&P 24 937 M€ vs 8 245 M€ [F50]) = loyers ≈ 16 627 M€ [R01] ; tolérance −50 % : −49,8 % à la limite, −58,5 % (plus haut séance 2023) au-delà.
+- **05-replique-bear.md** (Bear) : « quatre ans de recul » → deux années de recul après le pic 2023 [F08]-[F10] ; ROIC sur 3,5 ans, ≈ −2,1 pt/an ; identifiants des entrées 1 514 [F35], 17 755 [F24], 2 162 [F106] ; Distribution sélective ; capex 2024→2025 −17 % (5 531 → 4 567 M€), flux opérationnel 18 924 → 18 874 M€ [F30][F31] ; écart dette expliqué par [R01] ; RN 2021-2025 ≈ −2,5 %/an [F06][F10].
+- **06-risques.md** (Risk manager) : surtaxe IS +4 pts → [W1] seul (presse, non vérifié) ; « statuts non publiés » → « statuts de la SCA non consultés (absents du dossier) » ; réserve : [R03] relu (Reuters), [R04]-[R09] extraits de recherche.
+- **01-fiche.md** (Risk manager) : [R01] réconcilié (1 472 M€ = partie courante de la dette LT [S4] ; loyers + dette brute = 37 151 M€) ; [R03] relu sur Reuters/Euronext 03.08.2026, « deux entités » retiré. Aucune valeur chiffrée modifiée.
+- **07-dca.md** (Conseiller DCA) : rendement FCF ≈ 6,0 % = calcul [F31][F72], 7,6 % S&P [F75] ; ETF Stoxx 600 : chevauchement probable, composition non vérifiée [F--].
